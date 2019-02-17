@@ -1,0 +1,41 @@
+.plan {
+    text-align: center;
+
+}
+
+.imgs-div {
+    margin: 50px 0px;
+}
+
+.s-image {
+    height: 150px;
+    width: 150px;
+}
+
+.plan-title {
+    font-size: 32px;
+    margin-top: 35px;
+    margin-bottom: 5px;
+    font-weight: 400;
+}
+
+.plan-desc {
+    font-size: 20px;
+    font-weight: 340;
+}
+
+#anchor {
+    color: red;
+}
+
+.get-started-btn {
+    border: none;
+    zoom: 1.5;
+    color: white;
+    padding: 10px 20px;
+    background-color: red;
+}
+
+.get-started-btn:hover {
+    cursor: pointer;
+}

@@ -1,0 +1,29 @@
+.conatiner {
+    height: 450px;
+    width: 100%;
+    background-image: url('../../../Res/map.jpg');
+    background-repeat: no-repeat;
+}
+
+.services-text {
+    padding: 10px;
+    text-align: right;
+    color: #172455;
+    font-size: 18px;
+    font-weight: 500;
+    border-right: 3px #172455 solid;
+}
+
+.services-text:hover {
+    color: white;
+    cursor: pointer;
+    background-color: #172455;
+}
+
+.service {
+    font-size: 24px;
+    font-weight: 400;padding: 10px;
+    text-align: right;
+    color: #172455;
+    border-right: 3px #172455 solid;
+}
