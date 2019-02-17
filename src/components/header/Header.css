@@ -1,0 +1,97 @@
+.nav-bar {
+    margin-top: 15px;
+}
+
+.nav-item {
+    color: white;
+    font-size: 16px;
+}
+
+.nav-item:hover {
+    cursor: pointer;
+    background-color: #01FFFF10;
+    padding-top: 15px;
+    padding-bottom: 20px;
+}
+
+.header-back {
+    max-height: 900px;
+    height: 660px;
+    width: 101.1%;
+    background-image: url('../../Res/landing-bg-1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.signup {
+    float: right;
+    position: absolute;
+    top: 0px !important;
+    right: 0px;
+    margin-top: 3px;
+    margin-right: -10px;
+}
+
+.signup:hover {
+    cursor: pointer;
+}
+
+.signup-text {
+    float: left;
+    color: white;
+    margin-top: 5px;
+    margin-right: 10px;
+    padding: 5px 15px;
+    border-radius: 50px;
+    background-color: #CF0B1C;
+}
+
+.user-img {
+    float: right;
+    height: 40px;
+    width: 40px;
+}
+
+.input-div {
+    margin-top: 5%;
+    margin-left: 10%;
+}
+
+.input {
+    zoom: 2;
+    border: none;
+    background-repeat: no-repeat;
+    background-size: 15px 13px;
+    background-position-y: 7px;
+    background-position-x: 3px;
+    padding-left: 25px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+.input::-webkit-input-placeholder {
+    font-size: 7px;
+    color: #C5CFDF;
+}
+
+.live-input {
+    background-image: url('../../Res/location-icon.png');
+}
+
+.business-input {
+    margin-left: 5px;
+    margin-right: 5px;
+    background-image: url('../../Res/aim-icon.png');
+}
+
+.btn-input {
+    zoom: 2;
+    border: none;
+    color: white;
+    padding: 5px 10px;
+    background-color: rgba(20,28,72, 0.9);
+}
+
+.btn-input:hover {
+    cursor: pointer;
+}
