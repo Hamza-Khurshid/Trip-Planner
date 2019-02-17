@@ -9,7 +9,7 @@ const Input = () => {
                     <div className='input-div'>
                         <input type='text' placeholder='I live in' className='input live-input'/>
                         <input type='text' placeholder='I want to do business in' className='input business-input'/>
-                        <input type='submit' value="Let's go" className='btn-input'/>
+                        <input type='submit' value="Let's go" className='btn-input-b'/>
                     </div>
                 </Col>
             </Row>
